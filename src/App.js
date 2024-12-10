@@ -9,6 +9,9 @@ function App() {
      <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
          {greeting}
+         <p>
+          Это тестовый текст, для проверки нового workflow - для деплоя на github pages
+         </p>
       </header>
     </div>
   );
